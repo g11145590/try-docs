@@ -1,4 +1,4 @@
-# TBIA 文件模板
+# **TBIA 文件模板**
 
 作者一 - communication@tbiadata.tw | 作者二 - 版本 a1b2c3d4, 2023-04-07 08:37:11 UTC+8
 
@@ -6,7 +6,7 @@
 
 ![original](https://user-images.githubusercontent.com/31880136/230522523-7f82ab10-10f6-46b9-bbc2-5f80bfc6a5ea.jpg)
 
-## 版權說明 Colophon
+## **版權說明 Colophon**
 ### 建議引用方式 Suggested Citation
 作者A、作者B、作者C。某件事的操作指引。第二版。TBIA秘書處：臺北。
 
@@ -33,7 +33,7 @@ TO-DO 待作事項：在發佈前要先給此版本的文件一個DOI
 筆筒樹（*Sphaeropteris lepifera*），臺東縣達仁鄉，臺灣。2023年 mutolisp 通過 [iNaturalist研究等級觀察](https://www.inaturalist.org/observations/153297614) 所拍攝的照片，採用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh_TW) 授權。
 
 ---
-## 前言 Preface
+## **前言 Preface**
 
 ### 引言 Epigraph
 > After having put my shoes on and let my thoughts wander, I am sure of one thing – to put one foot in front of the other is one of the most important things we do.
@@ -52,16 +52,16 @@ TO-DO 待作事項：在發佈前要先給此版本的文件一個DOI
 獻給我們敬愛的老麥。
 
 ---
-## 1. 章節標題
+## **1. 章節標題**
 在一個春日濕潤且陰沉的清晨，天空低垂著烏雲，窗外的青楓輕柔地搖曳，白頭翁歌唱著晨曲。辦公室裡的人們手指在鍵盤上跳動，低聲交織著細碎的對話。隨著火車在幾百米外的鐵軌上咔嗒咔嗒響亮地駛過，遠方的砂石廠傳來遠處的轟鳴聲。一對斯氏繡眼，那些我們曾稱為綠繡眼的翠綠色小精靈，發出輕柔的叫聲在空中飛翔。
 
-## 2. 章節標題
+## **2. 章節標題**
 在春日的晨曦中，天空籠罩著濕悶的陰霾。窗外，青楓樹搖曳生姿，白頭翁在枝頭歌唱。辦公室裡，人們輕手敲打著鍵盤，低聲細語地交流著。遠處，兩三百公尺外的火車發出一陣陣有節奏的金屬摩擦聲，而更遠處則隱約聽到砂石廠轟鳴的工作聲。
 
 一對斯氏繡眼在空中翩翩起舞。這對翠綠色的小生靈，在我們的叫法中曾被稱作綠繡眼。它們嬉戲著，發出悅耳的叫聲，劃過天空。
 
 ---
-## 致謝 Acknowledegments
+## **致謝 Acknowledegments**
 這份正式聲明是對直接對您的工作作出貢獻的個人和機構的一份致意。這是一個簡單的感激之情，而非奉獻或過於情感化的感言。您應該考慮列出以下人員和機構：
 
 * 提供指導的人
@@ -81,7 +81,7 @@ TO-DO 待作事項：在發佈前要先給此版本的文件一個DOI
 在列出您打算感謝其貢獻的個人時，只使用他們的名字，不要加上頭銜。例如，只寫 Nau，而不是威斯康星大學農業經濟系野生動物管理教授Aldo Leopold。
 
 ---
-## 附錄一：範例
+## **附錄一：範例**
 附錄只是文件中帶有「特殊章節」標題的部份內文。
 
 將支持您的分析、驗證您的結論或探討相關觀點的非必要信息放在附錄中。範例可能包括：
@@ -95,7 +95,7 @@ TO-DO 待作事項：在發佈前要先給此版本的文件一個DOI
 * 軟體安裝說明
 
 ---
-## 詞彙表 Glossary
+## **詞彙表 Glossary**
 #### decimal degrees 十進制度
 以單個實數表示的度數（例如 -22.343456°）。注意，赤道以南的緯度為負值，本初子午線以西至 -180 度的經度也為負值。
 
@@ -109,4 +109,4 @@ TO-DO 待作事項：在發佈前要先給此版本的文件一個DOI
 指資料擁有者與需求者間之發佈與取得、傳遞與接收，包含但不限於透過網際網路發佈結構化資料之電子檔、及透過API（Application Programming Interface，應用程式介面）進行資料請求與回應。
 
 ---
-## 引用文獻 References
+## **引用文獻 References**
