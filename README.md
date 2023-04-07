@@ -36,3 +36,5 @@ mkdocs 語法
 ### Plugins
 
 - [mkdocs-git-revision-date-localized-plugin](https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/index.html)
+- [byrnereese/mkdocs-git-committers-plugin: A mkdocs plugin for displaying the last commit and a list of a file's contributors.](https://github.com/byrnereese/mkdocs-git-committers-plugin)
+- [timvink/mkdocs-git-authors-plugin: MkDocs plugin to display git authors of a page.](https://github.com/timvink/mkdocs-git-authors-plugin)
