@@ -33,3 +33,6 @@ mkdocs 語法
 - [Writing Your Docs - MkDocs](https://www.mkdocs.org/user-guide/writing-your-docs/)
 
 
+### Plugins
+
+- [mkdocs-git-revision-date-localized-plugin](https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/index.html)
