@@ -16,3 +16,5 @@ theme:
 plugins:
   - search
   - git-revision-date-localized
+  - git-authors
+  - git-committers
