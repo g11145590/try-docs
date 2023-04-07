@@ -6,6 +6,8 @@ tbia rocks !
 yaeeeee !
 yyoo
 
+{{ git_page_authors }}
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
