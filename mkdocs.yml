@@ -13,3 +13,6 @@ theme:
    name: 'material'
    palette:
         primary: 'green'
+plugins:
+  - search
+  - git-revision-date-localized
