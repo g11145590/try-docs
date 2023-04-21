@@ -1,12 +1,17 @@
 # TBIA 文件 Guidelines（草稿）
 
-![image](https://user-images.githubusercontent.com/31880136/233521350-2632bd7c-0de9-4712-9758-dc5c1dee9a8d.png)
+![image](https://user-images.githubusercontent.com/31880136/233522688-4c118c11-2d17-4a99-ba1e-621f3c3241dc.png)
+
 
 ## 背景
+（以GBIF來說，文件的目的是提供「與生物多樣性資訊與開放資料有關的訊息，以支持全球社群的實作」）
+（這個指引的目的則是提供一套可輕易更新，並具有一致（consistent）、可靠（reliable）、可再用（reusable），以及版本管理（versioned）特性的素材們，以促進社群對文件的信任，並促成更廣大的採納與使用。）
 
 ### 現有文件
+(這裡會列出既有的文件，比如生物多樣性敏感資料開放作業原則等等）
 
 ## 社群同儕審查程序 Community peer-review process
+（說明文件在發佈前會經歷哪些程序，有時候只是經過秘書處而已）
 
 ## 給文件作者們的指引 Guidelines for document authors
 
@@ -40,4 +45,4 @@ TO-DO 待作事項：在發佈前要先給此版本的文件一個DOI
 草稿，2023年4月。
 
 封面圖片
-褐頭鷦鶯（*Prinia inornata* ssp. *flavirostris*），高雄市，臺灣。2023年 jeromeko 通過 iNaturalist研究等級觀察 所拍攝的照片，採用 CC BY 4.0 授權。
+褐頭鷦鶯（*Prinia inornata* ssp. *flavirostris*），高雄市，臺灣。2023年 jeromeko 通過 [iNaturalist研究等級觀察](https://www.inaturalist.org/observations/154047981) 所拍攝的照片，採用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh_TW) 授權。
