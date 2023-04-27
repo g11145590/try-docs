@@ -17,6 +17,11 @@ theme:
         primary: 'green'
 plugins:
   - search
-  - git-revision-date-localized
   - git-authors
   - git-committers
+  - git-revision-date:
+      as_datetime: True
+      - macros
+  #- pdf-export:
+  #    combined: true      
+custom_dir: overrides
