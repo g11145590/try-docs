@@ -1,13 +1,15 @@
 # Welcome to MkDocs
 {{ page.meta.revision_date }}
+
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 tbia rocks !
 yaeeeee !
 yyoo
 
-{{ git_page_authors }}
-{{ git_revision_date }}
+{{ git_page_authors }} | {{ git_revision_date }}
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.

@@ -12,16 +12,17 @@ nav:
   - 文件指引的作業:
     - 文件指引草稿: TBIA 文件 Guidelines（草稿）.md
 theme:
-   name: 'material'
-   palette:
-        primary: 'green'
+  name: 'material'
+  palette:
+    primary: 'green'
+  custom_dir: overrides
+
 plugins:
   - search
   - git-authors
   - git-committers
   - git-revision-date:
       as_datetime: True
-      - macros
+  - macros
   #- pdf-export:
-  #    combined: true      
-custom_dir: overrides
+  #    combined: true
