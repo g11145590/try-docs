@@ -14,11 +14,11 @@ TBIA文件指由TBIA撰寫，並以開放授權發佈的文件。TBIA撰寫與�
 
 作者待補。2021。生物多樣性敏感資料開放作業原則（草稿）。出版者待補。出版地點待補。[URI連結待補](https://tbiadata.tw/assets/pdf/3_%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A8%A3%E6%80%A7%E6%95%8F%E6%84%9F%E8%B3%87%E6%96%99%E9%96%8B%E6%94%BE%E4%BD%9C%E6%A5%AD%E5%8E%9F%E5%89%87%EF%BC%88%E8%8D%89%E6%A1%88%EF%BC%89.pdf)。
 
-作者待補。2021。TBIA共同願景。出版者待補。出版地點待補。[URI連結待補]()。
+作者待補。2021。TBIA共同願景。出版者待補。出版地點待補。[URI連結待補](https://tbiadata.tw/assets/pdf/TBIA%20%E5%85%B1%E5%90%8C%E9%A1%98%E6%99%AF(%E8%8D%89%E6%A1%88).pdf)。
 
-柯智仁。2021。敏感資料釋出流程。出版者待補。出版地點待補。URI連結待補。
+柯智仁。2021。敏感資料釋出流程。出版者待補。出版地點待補。[URI連結待補](https://tbiadata.tw/assets/pdf/5_%E6%95%8F%E6%84%9F%E8%B3%87%E6%96%99%E9%87%8B%E5%87%BA%E6%B5%81%E7%A8%8B.pdf)。
 
-作者待補。2021。TBIA Logo及主視覺設計。出版者待補。出版地點待補。URI連結待補。
+作者待補。2021。TBIA Logo及主視覺設計。出版者待補。出版地點待補。[URI連結待補](https://tbiadata.tw/assets/pdf/TBIA%20logo%E5%8F%8A%E4%B8%BB%E8%A6%96%E8%A6%BA%E8%A8%AD%E8%A8%88.pdf)。
 
 ## 社群同儕審查程序 Community peer-review process
 > 說明文件在發佈前會經歷哪些程序，有時候只是經過秘書處而已
