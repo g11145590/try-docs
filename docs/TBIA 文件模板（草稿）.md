@@ -1,6 +1,6 @@
 # **TBIA 文件模板**
 
-作者一 - communication@tbiadata.tw | 作者二 - 版本 {{ git.short_commit }}, {{git.date.strftime('%Y-%m-%d %H:%M:%S%z') }}
+作者一 - communication@tbiadata.tw | 作者二 - 版本 {{ git.short_commit }}, {{ git.date.strftime('%Y-%m-%d %H:%M:%S%z') }}
 
 本文件亦有[PDF版本](我是超連結)。
 
