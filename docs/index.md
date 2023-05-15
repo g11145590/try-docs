@@ -1,6 +1,4 @@
 # Welcome to MkDocs
-{{ page.meta.revision_date }}
-
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

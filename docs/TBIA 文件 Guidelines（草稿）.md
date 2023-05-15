@@ -42,8 +42,59 @@ TBIA文件意旨由TBIA撰寫，並以開放授權形式發佈的文件。TBIA�
 ## 技術指引 Technical guidance
 > 這裡要教學的就是用什麼語法寫以及如何做簡易的文件目錄編輯，以我們目前來說就是MD語法簡易教學以及GitHub的Mkdocs的編輯教學
 
+### 文件架構
+
+
+### Markdown語法
+
+### 自動生成頁面資訊
+
+#### git
+
+- git 版本號碼 (簡短版本):  `{{ git.short_commit }}`
+- 最後更新日期: `{{git.date.strftime('%Y-%m-%d %H:%M:%S%z') }}`
+
 ## 給TBIA工程師們的資訊 Informationn for TBIA developers
 > 這裡要寫給思賢或思賢的後繼者看的，以目前來說就是如何維護與管理Mkdocs本身的軟體程式碼
+
+### 開發環境
+
+1) 安裝 [Docker](https://www.docker.com/)
+
+2) 用 docker 下載 mkdocs material
+
+```bash
+docker pull squidfunk/mkdocs-material
+```
+
+3) 執行本地端伺服器
+
+```
+docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
+```
+
+或是執行: `start.sh`
+
+然後在瀏覽器網址輸入 `http://127.0.0.1:8000`，就可以看到產生出來的頁面
+
+#### 產生靜態網頁程式 (Static Web site):
+
+```
+docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build
+```
+
+或是執行: `build.sh`
+
+
+#### 部署
+
+目前自動部署於 Github Pages
+
+### 自訂頁面樣式 (Layout and Styles)
+
+自訂頁面樣式的設定都存放在 `overrides` 目錄
+
+參考 [Customization - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/customization/)
 
 ## 版權說明 Colophon
 ### 建議引用方式 Suggested Citation
