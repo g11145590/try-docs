@@ -92,6 +92,7 @@ docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build
 
 參考 [Customization - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/customization/)
 
+---
 ## 版權說明 Colophon
 ### 建議引用方式 Suggested Citation
 柯智仁。TBIA 文件 Guidelines。草稿。TBIA秘書處：臺北。
