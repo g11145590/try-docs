@@ -28,6 +28,8 @@ TBIA文件指由TBIA撰寫，並以開放授權發佈的文件。TBIA撰寫與�
 
 我們在這個系統採用的文件編碼語法是[Python-Markdown語法](https://python-markdown.github.io/#goals)。我們採用這個語法的原因是因為TBIA文件是以Python語法撰寫，而Python Markdown語法可以用多種方式將Markdown文字轉成HTML。
 
+我們建議文件的作者欄位，優先以人名填寫（較不建議以單位名稱作為作者）。
+
 ## 舊文件的「去任務化」 'Decommissioning' old documents
 > 文件版本的更新 = 舊文件的去任務化或刪除的程序 
 
@@ -35,8 +37,12 @@ TBIA文件指由TBIA撰寫，並以開放授權發佈的文件。TBIA撰寫與�
 > 這裡要教學的就是用什麼語法寫以及如何做簡易的文件目錄編輯，以我們目前來說就是MD語法簡易教學以及GitHub的Mkdocs的編輯教學。
 
 ### 文件架構
+#### 給文件作者們
+#### 給編輯們
+#### 本文件網站的軟體架構
 
-
+## 給TBIA工程師們的資訊 Informationn for TBIA developers
+> 這裡要寫給思賢或思賢的後繼者看的，以目前來說就是如何維護與管理Mkdocs本身的軟體程式碼
 ### Markdown語法
 
 ### 自動生成頁面資訊
@@ -45,9 +51,6 @@ TBIA文件指由TBIA撰寫，並以開放授權發佈的文件。TBIA撰寫與�
 
 - git 版本號碼 (簡短版本):  `{{ git.short_commit }}`
 - 最後更新日期: `{{git.date.strftime('%Y-%m-%d %H:%M:%S%z') }}`
-
-## 給TBIA工程師們的資訊 Informationn for TBIA developers
-> 這裡要寫給思賢或思賢的後繼者看的，以目前來說就是如何維護與管理Mkdocs本身的軟體程式碼
 
 ### 開發環境
 
