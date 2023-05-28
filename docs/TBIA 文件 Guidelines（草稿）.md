@@ -35,7 +35,8 @@ TBIA文件指由TBIA撰寫，並以開放授權發佈的文件。TBIA撰寫與�
 > 文件版本的更新 = 舊文件的去任務化或刪除的程序 
 
 ## 技術指引 Technical guidance
-> 這裡要教學的就是用什麼語法寫以及如何做簡易的文件目錄編輯，以我們目前來說就是MD語法簡易教學以及GitHub的Mkdocs的編輯教學。
+> 這裡要教學的就是用什麼語法寫以及如何做簡易的文件目錄編輯，以我們目前來說就是MD語法簡易教學以及GitHub的Mkdocs的編輯教學。參考並修改於[MarkDown語法大全
+](https://hackmd.io/@mrcoding/ryZE7k8cN) 。
 
 
 ### 字體大小
