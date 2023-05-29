@@ -31,6 +31,12 @@ TBIA文件指由TBIA撰寫，並以開放授權發佈的文件。TBIA撰寫與�
 
 我們建議文件的作者欄位，優先以人名填寫（較不建議以單位名稱作為作者）。
 
+### 完成一個文件的步驟
+1. 在 /docs 資料夾中新增一個「.md」的檔案。
+2. 根據本指引與文件模板撰寫該文件檔案。
+3. 完成文件檔案後請秘書處確認。
+4. 確認完成後公開發佈。
+
 ## 舊文件的「去任務化」 'Decommissioning' old documents
 > 文件版本的更新 = 舊文件的去任務化或刪除的程序 
 
@@ -369,10 +375,10 @@ docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build
 柯智仁。TBIA 文件 Guidelines。草稿。TBIA秘書處：臺北。
 
 ### 作者 Authors
-柯智仁
+柯智仁、李金穎、李思賢、張俊怡
 
 ### 貢獻者 Contributors
-TaiBIF的李思賢、李金穎，以及張俊怡為本文件的這個版本做出了貢獻。
+XXX為本文件的這個版本做出了貢獻。
 
 ### 授權方式 Licence
 本文件《TBIA 文件 Guidelines》採用 創用CC 姓名標示-相同方式分享 4.0 國際 (CC BY-SA 4.0)。
