@@ -29,6 +29,11 @@ docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build
 ```
 或是執行: `build.sh`
 
+
+## 檔案
+
+靜態檔案放到 `docs/assets` 目錄下，build 出來後就會出現在 `site/assets` 目錄下
+
 ## 參考
 
 mkdocs 語法
